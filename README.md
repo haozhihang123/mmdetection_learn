@@ -22,3 +22,6 @@
 7. 样本制作（xml转coco）
 程序位置：xml2coco_v3/
 
+8. kmeans聚类出anchor的长宽比
+程序位置：anchor_kmeans.py
+
