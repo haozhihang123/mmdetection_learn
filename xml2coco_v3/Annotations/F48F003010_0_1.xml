@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<filename>F48F003010_0_1.jpg</filename>
+		<size>
+			<width>2500</width>
+			<height>2500</height>
+			<depth>3.0</depth>
+		</size>
+		<object>
+			<name>heat_engine_plant</name>
+			<bndbox>
+				<xmin>1468</xmin>
+				<xmax>1786</xmax>
+				<ymin>0</ymin>
+				<ymax>184</ymax>
+			</bndbox>
+		</object>
+		<object>
+			<name>cement_plant</name>
+			<bndbox>
+				<xmin>161</xmin>
+				<xmax>563</xmax>
+				<ymin>1541</ymin>
+				<ymax>1876</ymax>
+			</bndbox>
+		</object>
+	</annotation>

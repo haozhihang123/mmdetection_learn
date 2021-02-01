@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<filename>F48F008037_0_1.jpg</filename>
+		<size>
+			<width>2500</width>
+			<height>2500</height>
+			<depth>3.0</depth>
+		</size>
+		<object>
+			<name>SteelPlant</name>
+			<bndbox>
+				<xmin>1962</xmin>
+				<xmax>2500</xmax>
+				<ymin>1995</ymin>
+				<ymax>2493</ymax>
+			</bndbox>
+		</object>
+	</annotation>
