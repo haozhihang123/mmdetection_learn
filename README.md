@@ -7,6 +7,10 @@
 程序位置：anchor_head.py(mmdetection/mmdet/models/dense_heads/anchor_head.py)
 结果格式：show_rpn
 
+3. 可视化backbone输出的特征图
+程序位置：two_stage.py（draw_features函数）
+结果格式：features_show
+
 3. 批量预测结果并存储为json格式（labelme能够读取）
 程序位置：detection_for_mask_v5.py
 
