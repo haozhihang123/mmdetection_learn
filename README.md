@@ -29,3 +29,5 @@
 9. kmeans聚类出anchor的长宽比
 程序位置：anchor_kmeans.py
 
+10. 根据mmdetection产生的work_dir中的json文件绘制loss和map折线图
+程序位置：visualize_workdir_json/visualize_workdir_json.py
