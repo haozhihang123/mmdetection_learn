@@ -34,3 +34,6 @@
 
 11. mmdetection预测脚本（生成结果图，生成每张测试图片对应的xml，json文件）
 程序位置：detection_for_result/*（detection_for_mask_v5.py：预测并保存json，image_demo.py：单张图片预测，  image_demo_batch_test.py：批量图片预测）
+
+12. kmeans聚类锚框（读取训练集xml标记聚类锚框）
+程序位置：kmeans/anchor_kmeans.py
