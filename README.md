@@ -31,3 +31,6 @@
 
 10. 根据mmdetection产生的work_dir中的json文件绘制loss和map折线图
 程序位置：visualize_workdir_json/visualize_workdir_json.py
+
+11. mmdetection预测脚本（生成结果图，生成每张测试图片对应的xml，json文件）
+程序位置：detection_for_result/*
