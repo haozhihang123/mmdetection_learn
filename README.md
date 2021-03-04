@@ -37,3 +37,6 @@
 
 12. kmeans聚类锚框（读取训练集xml标记聚类锚框）
 程序位置：kmeans/anchor_kmeans.py
+
+13. 阅读DetNet之后编写的DetNet的backbone
+程序位置：detnet_backbone.py
