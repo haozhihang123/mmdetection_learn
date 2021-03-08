@@ -40,3 +40,7 @@
 
 13. 阅读DetNet之后编写的DetNet的backbone
 程序位置：detnet_backbone.py
+
+14. 读取labelme标记的json文件，使用kmeans聚类锚框
+程序位置：read_json_for_kmeans_anchor
+结果格式：keymeans_result/
