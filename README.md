@@ -44,3 +44,7 @@
 14. 读取labelme标记的json文件，使用kmeans聚类锚框
 程序位置：read_json_for_kmeans_anchor
 结果格式：keymeans_result/
+
+15. 修改预测脚本，将输出结果存入json（bbox,mask均可）
+程序位置：mmdetection2labelme(单类bbox,mask).py
+结果格式：产生三个文件夹（预测时指定），分别是原图，json，带结果的图
